@@ -1,9 +1,15 @@
-/*.left {
-  display: block;
-  margin-left: 0;
+.story-image {
+  width: 300px;
+  height: 150px;
 }
 
-.right {
-  display: block;
-  margin-right: 0;
-}*/
+.center {
+  left: 50%;
+}
+.d-block
+{
+  margin-left: 600px;
+  margin-right: 600px;
+  width:100px;
+  height: 100px;
+}
